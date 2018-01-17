@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<module>
+  <Tabgroup>
+    <Tab>
+      <Date_Picker f="id" b="date"/>
+    </Tab>
+  </Tabgroup>
+</module>
